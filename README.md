@@ -1,4 +1,4 @@
-# Data-hackaton
+# Data-hackaton Revolt Bi
 https://hackathon.revolt.bi/english
 
 1. Pairing products and resolving discrepancies (in progress)
